@@ -17,4 +17,5 @@ public class Box<T extends Fruits> {
     public void addInBox(T fruit) {
         fruits.add(fruit);
     }
+
 }
