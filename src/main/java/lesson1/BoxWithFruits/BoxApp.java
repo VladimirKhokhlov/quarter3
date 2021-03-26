@@ -13,7 +13,6 @@ public class BoxApp {
         Box<Orange> orangeBox = new Box<Orange>(oranges);
         appleBox.addInBox(apple);
         appleBox.addInBox(apple);
-        appleBox.addInBox(apple);
         System.out.println(appleBox.getWeight());
         orangeBox.addInBox(orange);
         orangeBox.addInBox(orange);
