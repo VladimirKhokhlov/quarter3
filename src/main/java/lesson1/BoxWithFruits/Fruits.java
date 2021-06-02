@@ -10,4 +10,5 @@ public abstract class Fruits {
     public float getWeight() {
         return weight;
     }
+
 }
